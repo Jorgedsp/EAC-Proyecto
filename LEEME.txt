@@ -1,0 +1,1 @@
+Iniciar el recurso preferiblemente desde el index y utilizando el navegador Mozzilla Firefox
